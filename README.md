@@ -1,6 +1,6 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## My name Akshat Bhargava, an undergrad student pursuing a B.E in Electronics and Telecommunications Engneering.<br>
+## My name Akshat Bhargava, an undergrad student pursuing B.E in Electronics and Telecommunications Engineering.<br>
 ## Since I'm an engineer in making, it kinda makes my job to test stuff and getting into places where we are not supposed to be (code wise) <img src="https://img.icons8.com/fluent/48/000000/wink.png" width="30px">
 
 ## I'm currently working on:
