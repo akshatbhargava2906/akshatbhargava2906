@@ -23,5 +23,5 @@
 </a> 
 
 <a href=https://www.instagram.com/_akshatbhargava/>
-  <img align="left" alt="Akshat Bhargava | Instagram" width="24px" src=<img src="<img src="https://img.icons8.com/ios/50/000000/instagram-new--v3.png" />
+  <img align="left" alt="Akshat Bhargava | Instagram" width="24px" src=<img src="<img src="https://img.icons8.com/windows/32/000000/instagram-new.png"/>
 </a> 
