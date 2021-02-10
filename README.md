@@ -15,13 +15,13 @@
 ## You can find me on 
   
 <a href="https://www.linkedin.com/in/akshat-bhargava-265bb9195/">
-  <img align="left" alt="Akshat Bhargava's LinkedIN" width="24px" src=<img src=<img src="https://img.icons8.com/material-two-tone/24/000000/linkedin--v2.png" />
+  <img align="left" alt="Akshat Bhargava's LinkedIN" width="24px" src="https://img.icons8.com/material-two-tone/24/000000/linkedin--v2.png" />
 </a>
 
 <a href="https://twitter.com/Circios29">
-  <img align="left" alt="Akshat Bhargava | Twitter" width="24px" src=<img src="https://img.icons8.com/ios/50/000000/twitter--v3.png" />
+  <img align="left" alt="Akshat Bhargava | Twitter" width="24px" src="https://img.icons8.com/ios/50/000000/twitter--v3.png" />
 </a> 
 
 <a href=https://www.instagram.com/_akshatbhargava/>
-  <img align="left" alt="Akshat Bhargava | Instagram" width="24px" src=<img src="<img src="https://img.icons8.com/windows/32/000000/instagram-new.png"/>
+  <img align="left" alt="Akshat Bhargava | Instagram" width="24px" src="https://img.icons8.com/windows/32/000000/instagram-new.png"/>
 </a> 
