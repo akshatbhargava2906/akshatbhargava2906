@@ -18,7 +18,7 @@
   <img align="left" alt="Akshat Bhargava's LinkedIN" width="36px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
-<a href="https://twitter.com/Circios29">
+<a href="https://twitter.com/akshatb29">
   <img align="left" alt="Akshat Bhargava | Twitter" width="36px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a> 
 
