@@ -4,8 +4,8 @@
 ## Since I'm an engineer in making, it kinda makes my job to test stuff and getting into places where we are not supposed to be (code wise) <img src="https://img.icons8.com/fluent/48/000000/wink.png" width="30px">
 
 ## I'm currently working on:
+### - Web and App development
 ### - Embedded systems
-### - Web development
 ### - Penetration Testing
 ### - CyberSecurity
 
