@@ -1,27 +1,77 @@
-# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Akshat 👋  
 
-## My name Akshat Bhargava, an undergrad student pursuing B.E in Electronics and Telecommunications Engineering.<br>
-## Since I'm an engineer in making, it kinda makes my job to test stuff and getting into places where we are not supposed to be (code wise) <img src="https://img.icons8.com/fluent/48/000000/wink.png" width="30px">
+Data Science Graduate Student @ NUS | Software Engineer | Systems Thinker  
 
-## I'm currently working on:
-### - Web and App development
-### - Embedded systems
-### - Penetration Testing
-### - CyberSecurity
+---
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=akshatbhargava2906&show_icons=true&theme=dracula)
+## 🚀 About Me
 
+I started in Electronics & Telecommunication, moved into Software Engineering,  
+and now I’m building my foundation in Data Science and Machine Learning.
 
-## You can find me on 
-  
-<a href="https://www.linkedin.com/in/akshat-bhargava-265bb9195/">
-  <img align="left" alt="Akshat Bhargava's LinkedIN" width="36px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-</a>
+I enjoy working at the intersection of:
+- Backend systems
+- Data pipelines
+- Applied Machine Learning
+- Model evaluation and experimentation
 
-<a href="https://twitter.com/akshatb29">
-  <img align="left" alt="Akshat Bhargava | Twitter" width="36px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-</a> 
+Currently sharpening:
+- Python for Data Science & ML
+- Statistical thinking
+- ML systems implementation
+- Research paper reproduction
 
-<a href=https://www.instagram.com/_akshatbhargava/>
-  <img align="left" alt="Akshat Bhargava | Instagram" width="36px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-</a> 
+---
+
+## 🧠 Engineering Background
+
+Previously:
+- Software Engineer 2
+- Worked on scalable backend systems
+- Built and tested production-grade services
+- Experienced in cross-team collaboration and mentoring
+
+Core stack:
+- Java
+- Spring Boot
+- SQL
+- Python (actively leveling up)
+- Git, CI/CD
+- Datadog monitoring & analytics
+
+---
+
+## 📊 Current Focus
+
+Right now I'm focused on:
+
+- Machine Learning fundamentals  
+- Model evaluation and experimentation discipline  
+- Reproducing research papers  
+- Understanding optimization and convergence deeply  
+- Building projects that are not just demos — but systems  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatbhargava2906&show_icons=true&theme=dracula)
+
+---
+
+## 🌏 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/bhargavaakshat2906/)  
+[Instagram](https://www.instagram.com/_akshatbhargava/)
+
+---
+
+## 📌 Philosophy
+
+I believe:
+- Systems > Hacks  
+- Clarity > Complexity  
+- Discipline > Motivation  
+- Understanding > Memorization  
+
+Currently building for the long game.
