@@ -2,6 +2,8 @@
 
 Data Science Graduate Student @ NUS | Software Engineer | Systems Thinker  
 
+Find Me Here: [My Introduction](https://github.com/akshatbhargava2906)
+
 ---
 
 ## 🚀 About Me
