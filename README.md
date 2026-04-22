@@ -68,12 +68,4 @@ Right now I'm focused on:
 
 ---
 
-## 📌 Philosophy
-
-I believe:
-- Systems > Hacks  
-- Clarity > Complexity  
-- Discipline > Motivation  
-- Understanding > Memorization  
-
 Currently building for the long game.
