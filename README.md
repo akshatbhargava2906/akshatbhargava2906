@@ -6,7 +6,7 @@ Find Me Here: [My Introduction](https://github.com/akshatbhargava2906)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I started in Electronics & Telecommunication, moved into Software Engineering,  
 and now I’m building my foundation in Data Science and Machine Learning.
@@ -25,7 +25,7 @@ Currently sharpening:
 
 ---
 
-## 🧠 Engineering Background
+## Engineering Background
 
 Previously:
 - Software Engineer 2
@@ -43,7 +43,7 @@ Core stack:
 
 ---
 
-## 📊 Current Focus
+## Current Focus
 
 Right now I'm focused on:
 
@@ -55,13 +55,13 @@ Right now I'm focused on:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatbhargava2906&show_icons=true&theme=dracula)
 
 ---
 
-## 🌏 Connect With Me
+## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/bhargavaakshat2906/)  
 [Instagram](https://www.instagram.com/_akshatbhargava/)
